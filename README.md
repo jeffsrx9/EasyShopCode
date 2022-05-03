@@ -1,8 +1,11 @@
-# carshop
+# 使用Vue-cli做出一個簡易的購物車網站
 
-## Project setup
+# 專案說明
 ```
-npm install
+Bootstrap製作RWD頁面
+使用Vue3與vant組件庫來製作介面
+後端使用Express.js來處理數據
+資料庫使用MySQL進行資料存取
 ```
 
 ### Compiles and hot-reloads for development
